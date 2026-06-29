@@ -133,7 +133,3 @@ Status: V1.1 In Development 🚀
 
 ---
 
-**NEXT MOVE BRO:** 
-Want me to drop `docker-compose.yml` + `backend/app/models.py` + `backend/app/main.py` now so you can run `docker-compose up` in 2 mins?
-
-Say `ship MereExpress` and we start Day 1 code.
