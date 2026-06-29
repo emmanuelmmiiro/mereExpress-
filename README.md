@@ -5,13 +5,12 @@
 **Tagline:** Multi-tenant food delivery marketplace. See menus from restaurants near you, order, and get delivery to your location at a cost.
 
 `Next.js + FastAPI + Postgres + PostGIS + Docker + Security + DevOps + Data + "Smart" features`  
-**No AI in the name. No AI in the pitch.**
+
 
 ---
 
 ### **0. EXECUTIVE SUMMARY** 
-`MereExpress` = `Glovo` + `Jumia Food` but built for Kampala, 5% fee vs 25%. 
-**Goal V1:** Get 3 restaurants live in Nakawa/Wandegeya. Show: Browse → Order → Track → Deliver → Report. 
+`MereExpress` = Browse → Order → Track → Deliver → Report. 
 **Success Metric:** 1 order placed end-to-end in <5 mins with live rider map.
 
 ---
